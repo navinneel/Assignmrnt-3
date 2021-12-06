@@ -1,1 +1,2 @@
 1. Changes are done in remote side of my pc.
+2. Changes are done in local side or repo
